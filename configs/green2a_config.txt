@@ -1,0 +1,9 @@
+[fitness_kwargs]
+game_map = ./maps/map00.txt
+pill_spawn = linear
+pill_density = 0.05
+fruit_prob = 0.1
+fruit_score = 10
+
+[initialization_kwargs]
+depth_limit = 10
